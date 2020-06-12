@@ -16,3 +16,10 @@ Dodano siatkę wydzielającą pola do układania klocków, funkcje odpowiedzialn
 Następne: Sprawdzanie czy przegrana, przesuwanie za pomocą przytrzymywania klawisza, zapisywanie wyniku, odliczanie czasu.
 
 Do tej pory udało się zrealizować wszystkie założenia.
+
+--------
+RAPORT 4 - koniec 
+
+Dodano sprawdzanie czy przegrana, zapisywanie wyniku, zwiekszanie poziomu trudnosci. 
+Nie udalo sie zrealizowac: odliczanie czasu, przesuwanie za pomoca przytrzymywania klawisza) 
+
